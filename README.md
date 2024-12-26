@@ -1,7 +1,12 @@
 This is a [Simple AI App](https://simple-ai-app.mudasir.live/) created using Hugging Face Inference API and Next.js Server Compoonents.
 
-## To run the project locally clone the repo
+## To run the project locally
 
+Clone the repo:
+
+```bash
+git clone https://github.com/mudassirzr/simple-ai-app.git
+```
 Install the dependencies:
 
 ```bash
